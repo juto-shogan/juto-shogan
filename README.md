@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hi there!<br><br>My name is **Somto**.  <br>🌐 I am passionate about **cybersecurity**, specializing in **machine learning** and **cyber defense**.  <br>💻 Currently, I’m exploring **backend development** with **Python Django** and venturing into **frontend development** with **React**.  <br>📚 I love **learning new things** and enjoy **collaborating** with others to create innovative solutions.  <br><br>✨ You can connect with me on [Instagram](https://www.instagram.com/juto_shogan/?utm_source=qr&r=nametag)!<br><br>
+## 💫 About Me:
+## 👋 Hi there!<br><br>My name is **Somto**.  <br>🌐 I am passionate about **cybersecurity**, specializing in **machine learning** and **cyber defense**.  <br>💻 Currently, I’m exploring **backend development** with **Python Django** and venturing into **frontend development** with **React**.  <br>📚 I love **learning new things** and enjoy **collaborating** with others to create innovative solutions.  <br><br>✨ You can connect with me on [Instagram](https://www.instagram.com/juto_shogan/?utm_source=qr&r=nametag)!<br><br>
 
 
 ## 🌐 Socials:
@@ -10,10 +10,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=juto-shogan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=juto-shogan&icon=0&color=0)](https://visitcount.itsvg.in)
 
