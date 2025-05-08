@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## 👋 Hi there!<br><br>My name is **Somto**.  <br>🌐 I am passionate about **cybersecurity**, specializing in **machine learning** and **cyber defense**.  <br>💻 Currently, I’m exploring **backend development** with **Python Django** and venturing into **frontend development** with **React**.  <br>📚 I love **learning new things** and enjoy **collaborating** with others to create innovative solutions.  <br><br>✨ You can connect with me on [Instagram](https://www.instagram.com/juto_shogan/?utm_source=qr&r=nametag)!<br><br>
+A motivated individual focused on developing innovative **Machine Learning** solutions. My expertise lies in designing, implementing, and deploying effective ML models. Passionate about collaborative problem-solving and contributing to impactful projects within the **machine learning** field.
 
 
 ## 🌐 Socials:
