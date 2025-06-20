@@ -1,6 +1,6 @@
 ## About Me:
 A motivated individual focused on developing innovative **Machine Learning** solutions. My expertise lies in designing, implementing, and deploying effective ML models. Passionate about collaborative problem-solving and contributing to impactful projects within the **machine learning** field.<be>
-Hope to one day work at **DeepMind**.
+Lets makes history.
 
 
 ## 🌐 Socials:
