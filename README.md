@@ -1,5 +1,6 @@
 ## About Me:
-Hi, I do **Data Analytics** and am currently learning backend development.
+Hi, I am interested in **Machine Learning, Data Analytics and Cyber Security** and am currently learning **Backend Development**.
+
 
 
 ## 🌐 Socials:
